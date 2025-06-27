@@ -29,9 +29,11 @@
 ## 🗂️ Project Structure
 
 ```bash
-├─── Train_Data.csv         # Training data (with labels)
-│─── Test_Data.csv          # Test data (no labels)
-|─── notebook.ipynb    # All-in-one training & inference script
+
+├── Train_Data.csv         # Training data (with labels)
+├── Test_Data.csv          # Test data (no labels)
+├── submission.csv             # Contains the Result
+├── notebook.ipynb    # All-in-one training & inference script
 └── README.md                  # This file
 
 ```
